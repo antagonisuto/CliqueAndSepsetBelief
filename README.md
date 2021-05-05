@@ -1,6 +1,35 @@
-# CliqueAndSepsetBelief
-Work done by Madina Saparbayeva
+## AAI Projects  
+Work done by Madina Saparbayeva  
 
+## AAI Projects   
+
+## Project 2: Markov Network (Python .ipynb)
+The project repository in this link to see without downloading:   
+https://github.com/antagonisuto/CliqueAndSepsetBelief/blob/master/AAI_MN_Project.ipynb      
+And (for Nazarbayev University Organization)      
+https://colab.research.google.com/drive/1sUW_9lCc8Kz2hSPqBapqCBvIO5z9taTD?usp=sharing      
+      
+**Input files:**     
+	⁃	Features        
+	⁃	Labels         
+      
+**Output:**      
+	⁃	Model: Normalized and Unnormalized data         
+	⁃	Predict: Name of algorithm        
+
+**Project:**      
+Implement a feature selector based on minimization of graph size. In this work you will get a dataset and your task is to implement a graph building and optimizing tools that will determine what size and what independencies should be included into a target undirected graphical model.      
+	⁃	For a given set of features (medical pyradiomycs, region props, etc) you will construct a Markov Network      
+	⁃	This implies that you will determine an initial set of independencies and use the final evaluation as a measure if more or less features should be included and how      
+	⁃	You can use a standard approach such as described in the first project or you can do a model search      
+
+**Result:**      
+'chexnet': 541, 'cnn': 58, 'resnet': 3674, 'unet': 5727      
+      
+#
+#
+
+## CliqueAndSepsetBelief (Java)
 ### To run program 
 enter in command line (if you have not IDE): 
 	“javac Main.java”
